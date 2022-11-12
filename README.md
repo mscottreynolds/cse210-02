@@ -46,4 +46,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* M. Scott Reynolds (mscottreynolds@gmail.com)
+* M. Scott Reynolds (mscottreynolds+github@gmail.com)
