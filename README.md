@@ -1,12 +1,3 @@
-M. Scott Reynolds
-cse210-02
-HiLo
-
-
-
-title, description, project structure, required software, your name and email address.
-
-
 # HiLo
 HiLo is a game a dealer will draw and display a card. The player will then make a guess if the next card 
 will be higher or lower than the previously drawn card. Points are won or lost based on whether or not
